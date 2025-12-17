@@ -1,0 +1,47 @@
+====== Employment Resources ======
+
+Here you'll find information about working at the Memorial Union, such as policies and different positions.
+
+===== New Hires =====
+----
+
+  * [[welcome_message|Welcome Message]]
+  * [[handbook|Employee Handbook]]
+  * [[org_chart|Organization Chart]]
+    * [[prostaff|Meet the Prostaff]]
+  * [[schedule|Your Work Schedule]]
+    * [[clocking_in|Clocking In and Out]]
+    * [[schedulers|Scheduler Team]]
+    * [[time_off|Time Off Requests]]
+    * [[sick_leave|Sick Leave]]
+  * [[dress_code|Dress Code]]
+  * [[https://hr.oregonstate.edu/student-employment|OSU Office of Human Resource]]
+
+
+===== Guest Services Position Descriptions =====
+----
+There are approximately [insert student employee numbers] student employees on the Memorial Union Guest Services team, all with a wide array of duties and required skills. Below you'll find all position descriptions and who to talk to should you be curious about moving to another position.
+
+  * [[setup_crew|Set-Up Crew]]
+  * [[setup_cord|Set-Up Coordinator]]
+  * [[info|Information Desk]]
+  * [[ea|Event Assistant]]
+  * [[es|Event Specialist]]
+  * [[eca|Event Coordinator Assistant]]
+  * [[sched|Scheduler]]
+  * [[tech|Event Technician]]
+  * [[sem|Special Event Manager]]
+  * [[lt|Lighting Technician]]
+  * [[at|Audio Technician]]
+  * [[sm|Stage Manager]]
+  * [[ops|Operations Assistant]]
+  * [[build_mon|Building Monitor]]
+
+===== Common Acronyms and Terms =====
+----
+
+  * [[mu_acronyms|Memorial Union Acronyms and Terms]]
+  * [[osu_acronyms|Oregon State University Acronyms and Terms]]
+
+
+

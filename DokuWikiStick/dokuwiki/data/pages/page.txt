@@ -1,0 +1,30 @@
+====== ES Wiki: Contents =======
+
+----
+Explore the knowledge of ES Wiki through these helpful resources. If you have a specific topic in mind, use the search box. If you don't know exactly what you are looking for or want to explore broad areas, browse the categories below. You can also click the "Random Page" link to find something new. There is a lot to know about the Memorial Union and being an Event Specialist, so you are highly encouraged to peruse!
+
+
+===== Navigating ES Wiki's Subjects =====
+----
+Each classification below is divided into further subdivisions when you follow the link.
+
+**Memorial Union**\\
+Explore the Memorial Union: its history, event spaces, and relationship to Oregon State University as a whole.
+  * [[memorial_union|Memorial Union]]
+
+**Employment**\\
+Learn about the positions that keep the Memorial Union running. Find resources for new hires. Read employment policies.
+  * [[employment|Employment]]
+
+**Event Specialist**\\
+Here you'll find more in-depth descriptions of ES duties and expectations.
+  * [[es_duties|Event Specialist Duties]]
+
+**Events**\\
+Procedures for the most common reoccurring events at the MU.
+  * [[reoccuring_events|Reoccuring Events]]
+
+**Tech**\\
+Information on all the different tech used at the MU by event specialists.
+  * [[es_tech|Tech]]
+

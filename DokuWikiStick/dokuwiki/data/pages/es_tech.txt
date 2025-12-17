@@ -1,0 +1,27 @@
+====== Memorial Union Tech Resources ======
+
+Whether you need information about what an [XLR cable] even is or how to set up an [OWL camera], odds are you'll find it below. Don't see what you're looking for or think a topic should be added? Get in touch with an [operations assistant].
+
+==== General Tech Information ====
+----
+Explainers on basic tech used in the MU.
+
+  * [[av_cables|Common A/V Cables]]
+  * [[gen_gear|Common Tech Equipment]]
+
+==== Tech How-To Guides ====
+----
+Detailed instructions on how to assemble specific gear, such as sound systems.
+
+  * [[announcement|Announcement System Guide]]
+  * [[sm_sound|Small Sound System Guide]]
+  * [[med_sound|Medium Sound System Guide]]
+  * [[lg_sound|Large Sound System Guide]]
+  * [[owl_guide|OWL Camera Guide]]
+
+==== Additional Resources ====
+----
+Resources for those looking to go more in-depth with their exploration of A/V theory and practice.
+  * [[bonus_tech_resources|Additional Resources]]
+
+

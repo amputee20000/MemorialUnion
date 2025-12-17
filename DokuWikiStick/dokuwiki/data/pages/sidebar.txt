@@ -1,0 +1,8 @@
+**Main menu**
+----
+[[start|Main Page]]\\
+[[page|Contents]]\\
+Random Article\\
+About ES Wiki
+----
+Help

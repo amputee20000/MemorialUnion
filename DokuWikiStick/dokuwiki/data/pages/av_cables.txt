@@ -1,0 +1,10 @@
+====== Common Audio-Visual Cables ======
+
+In the world of A/V, you need a lot of cables. Given the wide variety of events we host at the MU, we need a wide variety of cables to make it all work.
+
+==== 1/4 Inch Cable ====
+A cable used for analog audio signals. Generally used in the MU for connection instruments like guitars to a [DI Box].\\
+{{wiki:quarter_cable.jpg|1/4 inch cable}} [resize this later]
+
+==== Audio Snake ====
+A bundle of XLR cables that are contained together for easy organization. Most common examples found in the MU are 4-channel and 6-channel snakes. Primarily used for larger events like concerts and during events like [Provost Council of Deans].

@@ -1,0 +1,102 @@
+[Tue Jul 01 15:06:47.697881 2025] [mpm_winnt:notice] [pid 10428:tid 456] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Jul 01 15:06:47.699880 2025] [mpm_winnt:notice] [pid 10428:tid 456] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Jul 01 15:06:47.699880 2025] [core:notice] [pid 10428:tid 456] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Tue Jul 01 15:06:47.726878 2025] [mpm_winnt:notice] [pid 10428:tid 456] AH00418: Parent: Created child process 12104
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 12104:tid 464] AH00354: Child: Starting 24 worker threads.
+[Tue Jul 01 15:06:59.119717 2025] [authz_core:error] [pid 12104:tid 876] [client ::1:50259] AH01630: client denied by server configuration: D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Tue Jul 01 15:09:26.484707 2025] [authz_core:error] [pid 12104:tid 876] [client ::1:50293] AH01630: client denied by server configuration: D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Tue Jul 01 15:09:39.235685 2025] [authz_core:error] [pid 12104:tid 904] [client ::1:50295] AH01630: client denied by server configuration: D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Tue Jul 01 15:10:18.317596 2025] [authz_core:error] [pid 12104:tid 884] [client ::1:50301] AH01630: client denied by server configuration: D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/install.php
+[Tue Jul 01 15:51:45.782799 2025] [mpm_winnt:notice] [pid 10428:tid 456] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jul 01 15:51:49.589776 2025] [mpm_winnt:notice] [pid 12104:tid 464] AH00364: Child: All worker threads have exited.
+[Tue Jul 01 15:51:49.701105 2025] [mpm_winnt:notice] [pid 10428:tid 456] AH00430: Parent: Child process 12104 exited successfully.
+[Tue Jul 08 08:56:04.216263 2025] [mpm_winnt:notice] [pid 23880:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Jul 08 08:56:04.218341 2025] [mpm_winnt:notice] [pid 23880:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Jul 08 08:56:04.218341 2025] [core:notice] [pid 23880:tid 444] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Tue Jul 08 08:56:04.231358 2025] [mpm_winnt:notice] [pid 23880:tid 444] AH00418: Parent: Created child process 13416
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13416:tid 444] AH00354: Child: Starting 24 worker threads.
+[Tue Jul 08 09:01:53.290663 2025] [authz_core:error] [pid 13416:tid 856] [client ::1:63202] AH01630: client denied by server configuration: D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/dokuwiki/data/dont-panic-if-you-see-this-in-your-logs-it-means-your-directory-permissions-are-correct.png, referer: http://localhost:8800/doku.php?id=wiki:welcome&do=admin
+[Tue Jul 08 12:12:16.294645 2025] [mpm_winnt:notice] [pid 23880:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jul 08 12:12:30.136895 2025] [mpm_winnt:notice] [pid 13416:tid 444] AH00364: Child: All worker threads have exited.
+[Mon Aug 11 15:21:04.762682 2025] [core:warn] [pid 26472:tid 444] AH00098: pid file D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Aug 11 15:21:08.767804 2025] [mpm_winnt:notice] [pid 26472:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Aug 11 15:21:08.768804 2025] [mpm_winnt:notice] [pid 26472:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Aug 11 15:21:08.768804 2025] [core:notice] [pid 26472:tid 444] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Mon Aug 11 15:21:08.778807 2025] [mpm_winnt:notice] [pid 26472:tid 444] AH00418: Parent: Created child process 25592
+[Mon Aug 11 15:21:15.238936 2025] [mpm_winnt:notice] [pid 25592:tid 452] AH00354: Child: Starting 24 worker threads.
+[Mon Aug 11 15:22:13.472657 2025] [core:warn] [pid 18900:tid 472] AH00098: pid file D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Aug 11 15:22:17.116863 2025] [mpm_winnt:notice] [pid 18900:tid 472] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Aug 11 15:22:17.116863 2025] [mpm_winnt:notice] [pid 18900:tid 472] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Aug 11 15:22:17.116863 2025] [core:notice] [pid 18900:tid 472] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Mon Aug 11 15:22:17.124862 2025] [mpm_winnt:notice] [pid 18900:tid 472] AH00418: Parent: Created child process 16984
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 16984:tid 440] AH00354: Child: Starting 24 worker threads.
+[Mon Aug 11 15:44:25.393219 2025] [mpm_winnt:notice] [pid 18900:tid 472] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 11 15:44:32.230987 2025] [mpm_winnt:notice] [pid 16984:tid 440] AH00364: Child: All worker threads have exited.
+[Mon Aug 11 15:49:16.211091 2025] [core:warn] [pid 13764:tid 492] AH00098: pid file D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Aug 11 15:49:20.033328 2025] [mpm_winnt:notice] [pid 13764:tid 492] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Mon Aug 11 15:49:20.033328 2025] [mpm_winnt:notice] [pid 13764:tid 492] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Mon Aug 11 15:49:20.033328 2025] [core:notice] [pid 13764:tid 492] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Mon Aug 11 15:49:20.046331 2025] [mpm_winnt:notice] [pid 13764:tid 492] AH00418: Parent: Created child process 20376
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 20376:tid 468] AH00354: Child: Starting 24 worker threads.
+[Mon Aug 11 17:02:08.077570 2025] [mpm_winnt:notice] [pid 13764:tid 492] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Aug 11 17:02:10.093468 2025] [mpm_winnt:notice] [pid 20376:tid 468] AH00364: Child: All worker threads have exited.
+[Mon Aug 11 17:02:10.202145 2025] [mpm_winnt:notice] [pid 13764:tid 492] AH00430: Parent: Child process 20376 exited successfully.
+[Tue Aug 12 08:58:48.409792 2025] [mpm_winnt:notice] [pid 11020:tid 484] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Aug 12 08:58:48.411792 2025] [mpm_winnt:notice] [pid 11020:tid 484] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Aug 12 08:58:48.411792 2025] [core:notice] [pid 11020:tid 484] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Tue Aug 12 08:58:48.423320 2025] [mpm_winnt:notice] [pid 11020:tid 484] AH00418: Parent: Created child process 18528
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 18528:tid 488] AH00354: Child: Starting 24 worker threads.
+[Tue Aug 12 09:42:12.439693 2025] [mpm_winnt:notice] [pid 11020:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 12 09:42:35.921759 2025] [mpm_winnt:notice] [pid 18528:tid 488] AH00364: Child: All worker threads have exited.
+[Tue Aug 12 11:37:01.296520 2025] [core:warn] [pid 20380:tid 464] AH00098: pid file D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 12 11:37:05.171669 2025] [mpm_winnt:notice] [pid 20380:tid 464] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Aug 12 11:37:05.171669 2025] [mpm_winnt:notice] [pid 20380:tid 464] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Aug 12 11:37:05.171669 2025] [core:notice] [pid 20380:tid 464] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Tue Aug 12 11:37:05.185669 2025] [mpm_winnt:notice] [pid 20380:tid 464] AH00418: Parent: Created child process 13384
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 13384:tid 444] AH00354: Child: Starting 24 worker threads.
+[Tue Aug 12 12:45:51.336174 2025] [mpm_winnt:notice] [pid 20380:tid 464] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 12 12:46:03.010044 2025] [mpm_winnt:notice] [pid 13384:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Aug 12 12:46:08.612518 2025] [core:warn] [pid 1668:tid 460] AH00098: pid file D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 12 12:46:12.589116 2025] [mpm_winnt:notice] [pid 1668:tid 460] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Aug 12 12:46:12.589116 2025] [mpm_winnt:notice] [pid 1668:tid 460] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Aug 12 12:46:12.590118 2025] [core:notice] [pid 1668:tid 460] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Tue Aug 12 12:46:12.603409 2025] [mpm_winnt:notice] [pid 1668:tid 460] AH00418: Parent: Created child process 21772
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21772:tid 448] AH00354: Child: Starting 24 worker threads.
+[Tue Aug 12 13:02:09.168123 2025] [mpm_winnt:notice] [pid 1668:tid 460] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Aug 12 13:02:11.204995 2025] [mpm_winnt:notice] [pid 21772:tid 448] AH00364: Child: All worker threads have exited.
+[Tue Aug 12 13:02:11.279936 2025] [mpm_winnt:notice] [pid 1668:tid 460] AH00430: Parent: Child process 21772 exited successfully.
+[Tue Aug 12 14:38:04.767170 2025] [mpm_winnt:notice] [pid 26040:tid 444] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Tue Aug 12 14:38:04.768473 2025] [mpm_winnt:notice] [pid 26040:tid 444] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Tue Aug 12 14:38:04.768473 2025] [core:notice] [pid 26040:tid 444] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Tue Aug 12 14:38:04.776483 2025] [mpm_winnt:notice] [pid 26040:tid 444] AH00418: Parent: Created child process 5740
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 5740:tid 448] AH00354: Child: Starting 24 worker threads.
+[Tue Aug 12 14:50:53.681425 2025] [mpm_winnt:notice] [pid 26040:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 14 10:50:58.794897 2025] [core:warn] [pid 28380:tid 456] AH00098: pid file D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 14 10:51:03.027877 2025] [mpm_winnt:notice] [pid 28380:tid 456] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Aug 14 10:51:03.027877 2025] [mpm_winnt:notice] [pid 28380:tid 456] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Aug 14 10:51:03.027877 2025] [core:notice] [pid 28380:tid 456] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Thu Aug 14 10:51:03.039853 2025] [mpm_winnt:notice] [pid 28380:tid 456] AH00418: Parent: Created child process 7372
+[Thu Aug 14 10:51:10.565124 2025] [mpm_winnt:notice] [pid 7372:tid 440] AH00354: Child: Starting 24 worker threads.
+[Thu Aug 21 11:04:05.865141 2025] [core:warn] [pid 32920:tid 452] AH00098: pid file D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 21 11:04:16.235775 2025] [mpm_winnt:notice] [pid 32920:tid 452] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Aug 21 11:04:16.236864 2025] [mpm_winnt:notice] [pid 32920:tid 452] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Aug 21 11:04:16.236864 2025] [core:notice] [pid 32920:tid 452] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Thu Aug 21 11:04:16.247164 2025] [mpm_winnt:notice] [pid 32920:tid 452] AH00418: Parent: Created child process 15520
+[Thu Aug 21 11:04:23.659628 2025] [mpm_winnt:notice] [pid 15520:tid 452] AH00354: Child: Starting 24 worker threads.
+[Thu Aug 21 11:06:57.076160 2025] [core:warn] [pid 31492:tid 468] AH00098: pid file D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Aug 21 11:07:00.880334 2025] [mpm_winnt:notice] [pid 31492:tid 468] AH00455: Apache/2.4.58 (Win64) PHP/8.2.13 configured -- resuming normal operations
+[Thu Aug 21 11:07:00.880334 2025] [mpm_winnt:notice] [pid 31492:tid 468] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
+[Thu Aug 21 11:07:00.880334 2025] [core:notice] [pid 31492:tid 468] AH00094: Command line: 'mapache.exe -d D:/dokuwiki-460ee2279ccc3e08c706c287598b2298/DokuWikiStick/server'
+[Thu Aug 21 11:07:00.894333 2025] [mpm_winnt:notice] [pid 31492:tid 468] AH00418: Parent: Created child process 24656
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 24656:tid 440] AH00354: Child: Starting 24 worker threads.
+[Thu Aug 21 11:50:29.458048 2025] [mpm_winnt:notice] [pid 31492:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Aug 21 11:50:51.651150 2025] [mpm_winnt:notice] [pid 24656:tid 440] AH00364: Child: All worker threads have exited.
